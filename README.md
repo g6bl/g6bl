@@ -2,15 +2,15 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/736x/3c/ee/f0/3ceef00a9d606fb4c582effe90bffb3a.jpg"/>
+<img align="right" width="400" alt="Roque" src="https://i.pinimg.com/736x/44/6e/8d/446e8d1a7ba45fd7202f2130f40b4b5c.jpg"/>
 
-<h2> / about me /</h2>
+<h3> / about me / </h3>
   
 - ⭐ currently working on **c dev**
 - 💀 mostly working on **private repositories**
 - 👾 a **42 student** working his way around things
   
-<h2> / current skills / </h2>
+<h3> / current skills / </h3>
   
 - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logoColor=white&whitestyle=for-the-badge" alt = "c lang" />
@@ -18,11 +18,11 @@
   </br></br>
   
 <div align="right">
-<a>Image by Mari Swifr</a>
+<a>Image by Bun Sak</a>
   </div>
   </div>
 
 ------
 Credit: [zillastar](https://github.com/zillastar)
 
-Last Edited on: 17/07/2026
+Last Edited on: 22/07/2026
