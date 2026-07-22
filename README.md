@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Roque" src="https://i.pinimg.com/736x/44/6e/8d/446e8d1a7ba45fd7202f2130f40b4b5c.jpg"/>
+<img align="right" width="300" alt="Roque" src="https://i.pinimg.com/736x/44/6e/8d/446e8d1a7ba45fd7202f2130f40b4b5c.jpg"/>
 
 <h3> / about me / </h3>
   
